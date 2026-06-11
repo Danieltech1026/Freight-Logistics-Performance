@@ -1,4 +1,5 @@
  # 🚚 Freight & Logistics Performance Dashboard
+ ![Dashboard Preview](Shipment report Dashboard .png)
 
 A Power BI dashboard I built to help logistics teams and business leaders monitor freight costs, carrier performance, warehouse efficiency, and delivery reliability from a single view.
 
