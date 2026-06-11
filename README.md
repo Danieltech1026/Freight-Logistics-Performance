@@ -69,8 +69,3 @@ Measures shipment volume, damage incidents, and operational efficiency across wa
 
 This dashboard enables decision-makers to quickly identify operational risks, monitor logistics performance, and make data-driven decisions that improve efficiency while reducing freight costs.
 
----
-
-**Built by Ayomide**
-
-A data analyst passionate about turning complex operational data into clear business insights.
